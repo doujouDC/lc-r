@@ -335,7 +335,7 @@ a complete command. This is likely because you have not 'closed' a parenthesis o
 quotation, i.e. you don't have the same number of left-parentheses as
 right-parentheses or the same number of opening and closing quotation marks.
 When this happens, and you thought you finished typing your command, click
-inside the console window andx press <kbd>Esc</kbd>; this will cancel the
+inside the console window and press <kbd>Esc</kbd>; this will cancel the
 incomplete command and return you to the `>` prompt. You can then proofread
 the command(s) you entered and correct the error.
 
